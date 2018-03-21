@@ -1,3 +1,4 @@
+// sample presentational
 import React from 'react';
 
 class List extends React.Component {
